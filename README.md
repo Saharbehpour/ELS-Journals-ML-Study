@@ -3,3 +3,12 @@ Empirical Legal Scholarship: What time-biased document clustering for automatic 
 
 ## Environment Setup
 1. Google Colab
+
+## Data 
+The data needs to be in the following format 
+
+# Analysis 
+
+
+## How to run the code 
+1. Import the data: 
